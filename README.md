@@ -7,7 +7,7 @@ Olá, sou Ismael Moura, desenvolvedor apaixonado por tecnologia e pela criação
 
   
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0072C6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ismael.freitas@outlook.com.br)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-moura-dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:https://www.linkedin.com/in/ismael-moura-dev/)
     
 
 ---
