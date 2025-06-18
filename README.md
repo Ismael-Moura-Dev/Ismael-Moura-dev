@@ -1,8 +1,17 @@
-# 🧑🏻‍💻 Ismael Moura
 
-**`Desenvolvedor Front-End`**
+👨‍💻 Desenvolvedor Front-End | Foco em React, HTML, CSS e JavaScript
 
-Olá, sou Ismael Moura, desenvolvedor apaixonado por tecnologia e pela criação de soluções digitais que impactam positivamente a vida das pessoas. Atualmente, foco no desenvolvimento web, com experiência prática em HTML, CSS e JavaScript. Minha jornada profissional me levou a aprimorar habilidades essenciais para a criação de soluções inovadoras e funcionais. Estou sempre buscando expandir meus conhecimentos, aplicando um olhar atento para resolver problemas de forma prática e eficiente, explorando novas tecnologias e entregando melhores resultados. Meu objetivo vai além de construir interfaces bonitas e funcionais: busco criar experiências que realmente façam a diferença, seja melhorando processos ou desenvolvendo novas ferramentas que atendam às necessidades reais dos usuários. Se você busca um profissional comprometido, curioso e pronto para enfrentar novos desafios, vamos conversar! 
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pelo impacto que soluções bem construídas podem gerar na vida das pessoas. Tenho como foco o desenvolvimento Front-End, utilizando tecnologias como HTML, CSS, JavaScript e React, com boas práticas de acessibilidade, responsividade e organização de código.
+Além disso, tenho explorado áreas complementares que envolvem API REST, consumo de dados JSON, integração com serviços como WhatsApp e uso de ferramentas como JSON Server para simular back-end em aplicações React.
+
+🔧 Principais Tecnologias
+- HTML5, CSS3, JavaScript ES6+
+- React.js, Vite, Tailwind CSS
+- Git & GitHub
+- JSON, API REST
+- Figma (para prototipagem)
+
+Estou em constante evolução, me capacitando por meio de cursos e de práticas voltadas para o desenvolvimento web, fortalecendo minhas habilidades técnicas e práticas com foco em Front-End.! 
 
 
   
